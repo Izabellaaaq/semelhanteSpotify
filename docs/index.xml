@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrique e Juliano</title>
+    <link>http:Izabellaaaq.github.io/henrique-e-juliano/</link>
+    <description>Recent content on Henrique e Juliano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 11 Mar 2018 22:25:24 -0300</lastBuildDate>
+    
+	<atom:link href="http:Izabellaaaq.github.io/henrique-e-juliano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semelhanças no Spotify</title>
+      <link>http:Izabellaaaq.github.io/henrique-e-juliano/post/primeiro-post/</link>
+      <pubDate>Sun, 11 Mar 2018 22:25:24 -0300</pubDate>
+      
+      <guid>http:Izabellaaaq.github.io/henrique-e-juliano/post/primeiro-post/</guid>
+      <description>D3  .node { fill: #ccc; stroke: #fff; stroke-width: 2px; } .link { stroke: #999; stroke-opacity: 0.3; }    Force layout    1 2 3 4   A preferida do Brasil   O que Para esse exemplo, usamos dados de quais artistas são semelhantes a quais da API do Spotify. A partir de um artista inicial, usamos um programa que pega artistas semelhantes a ele, e semelhantes a estes, até atingir um limite.</description>
+    </item>
+    
+    <item>
+      <title>Semelhanças no Spotify</title>
+      <link>http:Izabellaaaq.github.io/henrique-e-juliano/post/primeiro-post/</link>
+      <pubDate>Sun, 11 Mar 2018 22:25:24 -0300</pubDate>
+      
+      <guid>http:Izabellaaaq.github.io/henrique-e-juliano/post/primeiro-post/</guid>
+      <description>&amp;lt;!DOCTYPE html&amp;gt;  D3
+&amp;lt;link href=&amp;quot;https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt; &amp;lt;link href=&amp;quot;css/bootstrap.min.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt; &amp;lt;link href=&amp;quot;css/main.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt; &amp;lt;link href=&amp;quot;css/fonts.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt; &amp;lt;style&amp;gt; .node { fill: #ccc; stroke: #fff; stroke-width: 2px; } .link { stroke: #999; stroke-opacity: 0.3; } &amp;lt;/style&amp;gt;   
+&amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;header&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;col-xs-10&amp;quot;&amp;gt; &amp;lt;h2&amp;gt;Force layout&amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;ol class=&amp;quot;breadcrumb&amp;quot;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;networks1.html&amp;quot;&amp;gt;1&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;networks2.html&amp;quot;&amp;gt;2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;networks3.html&amp;quot;&amp;gt;3&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;networks4.html&amp;quot;&amp;gt;4&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;header&amp;gt; &amp;lt;h1&amp;gt;A preferida do Brasil&amp;lt;/h1&amp;gt; &amp;lt;/header&amp;gt; &amp;lt;div id=&amp;quot;chart&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;section&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;col-md-8&amp;quot;&amp;gt; &amp;lt;h3&amp;gt;O que&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Para esse exemplo, usamos dados de quais artistas são semelhantes a quais da API do Spotify.</description>
+    </item>
+    
+  </channel>
+</rss>

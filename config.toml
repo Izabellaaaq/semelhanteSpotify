@@ -1,0 +1,11 @@
+baseURL = "http:Izabellaaaq.github.io/henrique-e-juliano/"
+languageCode = "pt-BR"
+title = "Henrique e Juliano"
+theme = "hugo-nuo"
+publishDir = "docs"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+
+
+
